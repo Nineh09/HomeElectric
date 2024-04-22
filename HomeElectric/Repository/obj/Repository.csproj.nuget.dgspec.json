@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {}
+    "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\obj\\",
+        "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\CHINH\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,24 +91,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj": {
+    "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj",
+        "projectUniqueName": "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj",
         "projectName": "DAO",
-        "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\obj\\",
+        "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj",
+        "packagesPath": "C:\\Users\\CHINH\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,8 +124,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj"
+              "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -129,6 +134,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -150,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {
+    "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\obj\\",
+        "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\CHINH\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -183,8 +193,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj": {
-                "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj"
+              "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj": {
+                "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\DAO\\DAO.csproj"
               }
             }
           }
@@ -193,6 +203,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -214,7 +229,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
