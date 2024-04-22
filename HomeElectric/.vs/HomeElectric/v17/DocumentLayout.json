@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\HomeElectric\\HomeElectric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B96DCB-9299-407C-9F04-A4E659DC7ECA}|Repository\\Repository.csproj|d:\\github\\homeelectric\\homeelectric\\repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B96DCB-9299-407C-9F04-A4E659DC7ECA}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B96DCB-9299-407C-9F04-A4E659DC7ECA}|Repository\\Repository.csproj|d:\\github\\homeelectric\\homeelectric\\repository\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B96DCB-9299-407C-9F04-A4E659DC7ECA}|Repository\\Repository.csproj|solutionrelative:repository\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6637EC26-BBDE-48A9-BB52-A494F6F17019}|Service\\Service.csproj|d:\\github\\homeelectric\\homeelectric\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6637EC26-BBDE-48A9-BB52-A494F6F17019}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:59:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Implement\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implement\\GenericRepository.cs",
+              "ToolTip": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Implement\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\Implement\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:59:18.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Github\\HomeElectric\\HomeElectric\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "D:\\Github\\HomeElectric\\HomeElectric\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:57:55.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\Github\HomeElectric\HomeElectric\Service\bin\Debug\net6.0\Service.deps.json
+D:\Github\HomeElectric\HomeElectric\Service\bin\Debug\net6.0\Service.dll
+D:\Github\HomeElectric\HomeElectric\Service\bin\Debug\net6.0\Service.pdb
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.sourcelink.json
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.dll
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\refint\Service.dll
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\Service.pdb
+D:\Github\HomeElectric\HomeElectric\Service\obj\Debug\net6.0\ref\Service.dll
