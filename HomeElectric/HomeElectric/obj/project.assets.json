@@ -943,6 +943,45 @@
         "runtime": {
           "bin/placeholder/BusinessObject.dll": {}
         }
+      },
+      "DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAO.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DAO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
       }
     }
   },
@@ -2353,32 +2392,47 @@
       "type": "project",
       "path": "../BusinessObject/BusinessObject.csproj",
       "msbuildProject": "../BusinessObject/BusinessObject.csproj"
+    },
+    "DAO/1.0.0": {
+      "type": "project",
+      "path": "../DAO/DAO.csproj",
+      "msbuildProject": "../DAO/DAO.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BusinessObject >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Design >= 6.0.28"
+      "Microsoft.EntityFrameworkCore.Design >= 6.0.28",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CHINH\\.nuget\\packages\\": {},
+    "C:\\Users\\Acer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\HomeElectric\\HomeElectric\\HomeElectric\\HomeElectric.csproj",
+      "projectUniqueName": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\HomeElectric\\HomeElectric.csproj",
       "projectName": "HomeElectric",
-      "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\HomeElectric\\HomeElectric.csproj",
-      "packagesPath": "C:\\Users\\CHINH\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\HomeElectric\\HomeElectric\\HomeElectric\\obj\\",
+      "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\HomeElectric\\HomeElectric.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\HomeElectric\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2394,8 +2448,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\BusinessObject\\BusinessObject.csproj"
+            "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Service\\Service.csproj": {
+              "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Service\\Service.csproj"
             }
           }
         }
@@ -2404,11 +2458,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2441,7 +2490,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
