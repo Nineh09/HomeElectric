@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "HomeElectric/1.0.0": {
         "dependencies": {
-          "BusinessObject": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Design": "6.0.28"
+          "Microsoft.EntityFrameworkCore.Design": "6.0.28",
+          "Service": "1.0.0"
         },
         "runtime": {
           "HomeElectric.dll": {}
@@ -502,6 +502,30 @@
         "runtime": {
           "BusinessObject.dll": {}
         }
+      },
+      "DAO/1.0.0": {
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
+        "runtime": {
+          "DAO.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "DAO": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "Repository": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
+        }
       }
     }
   },
@@ -862,6 +886,21 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
