@@ -2333,23 +2333,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {},
+    "C:\\Users\\CHINH\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Service\\Service.csproj",
+      "projectUniqueName": "D:\\Github\\HomeElectric\\HomeElectric\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Service\\obj\\",
+      "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\Service\\Service.csproj",
+      "packagesPath": "C:\\Users\\CHINH\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\HomeElectric\\HomeElectric\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CHINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2365,8 +2365,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\BL3W-PRN221\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj"
+            "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\Github\\HomeElectric\\HomeElectric\\Repository\\Repository.csproj"
             }
           }
         }
@@ -2375,6 +2375,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2396,7 +2401,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
